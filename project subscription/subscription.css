@@ -1,0 +1,129 @@
+html {
+    background-color: rgb(100, 81, 112);
+    font-family: 'Century Gothic', sans-serif;
+    font-weight: 400;
+  }
+
+  
+  .card-container {
+    background-color: rgb(255, 239, 239);
+    width: 350px;
+    margin: 50px auto;
+    box-shadow: 3px 3px 10px rgb(201, 200, 200);
+  }
+  
+  h1 {
+    color: rgb(163, 133, 184);
+    text-align: left;
+    padding: 30px 50px 0px 50px;
+    margin: 10px 0;
+    font-family: 'Zilla Slab', serif;
+    font-weight: 600;
+  }
+  
+  .card-info {
+    color: rgb(14, 13, 13);
+    text-align: left;
+    padding: 0 50px;
+    margin: 10px 0 30px 0;
+  }
+  
+  .price {
+    color: rgb(118, 50, 150);
+    background-color: rgb(235, 230, 167);
+    text-align: center;
+    margin: 30px auto 10px auto;
+    font-size: 50px;
+    font-weight: 600;
+    font: 125;
+  }
+  
+  .price-info {
+    color: rgb(26, 25, 25);
+    text-align: center;
+    margin: 10px 0 30px 0;
+    padding: 0 50px;
+  }
+  
+  .sub-details {
+    width: 300px;
+    margin: 30px 50px;
+  }
+  
+  
+  .sub-feature {
+    display: flex;
+  }
+  
+  .icon {
+    display: flex;
+    width: 10px;
+  }
+  
+  .sub-feature-text {
+    color: rgb(58, 58, 58);
+    padding: 2px;
+    margin: 5px;   
+  }
+  
+  
+  .button-container {
+    text-align: center;
+    margin: 30px 0 0 0;
+  }
+  
+  .button {
+    color: rgb(159, 126, 190);
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 70%;
+    padding: 10px;
+    margin: 0 0 30px 0;
+    border: 2px solid rgb(224, 224, 224);
+    font-size: 18px;
+    font-weight: 600;
+  }
+  
+  .button:hover {
+    color: white;
+    background-color: rgb(0, 170, 255);
+    border: 2px solid rgb(255, 255, 255);
+  }
+
+
+ 
+  input.email{
+
+    text-align: center;
+    margin: 5px;
+
+  }
+  body {
+    text-align: center;
+  }
+
+  form{
+    color: aliceblue;
+    text-align: center;
+  }
+
+
+  .clock{
+
+
+    text-align: center;
+    color: aliceblue;
+  }
+
+  .navbar-brand{
+
+
+    font-family: cursive;
+    color: rgb(15, 14, 11);
+    font-size: x-large;
+    font-style: italic;
+    font-display: flex ;
+   
+  }
+
